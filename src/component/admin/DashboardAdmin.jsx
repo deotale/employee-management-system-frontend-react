@@ -85,13 +85,13 @@ class DashboardAdmin extends Component {
                 <li>
                   <Link to="/admin/role">
                     <FontAwesomeIcon icon={faUsers} className="sidebar-icon" /> 
-                    Role 
+                    Employee 
                   </Link> 
                 </li>
                 <li>
                   <Link to="/admin/position">
                     <FontAwesomeIcon icon={faChair} className="sidebar-icon" /> 
-                    Position 
+                     
                   </Link> 
                 </li>
                 <li>
@@ -109,13 +109,13 @@ class DashboardAdmin extends Component {
                       icon={faDollarSign}
                       className="sidebar-icon"
                     /> 
-                    Project Bidding 
+                     
                   </Link> 
                 </li>
                 <li>
                   <Link to="/admin/portal-master">
                     <FontAwesomeIcon icon={faTasks} className="sidebar-icon" /> 
-                    Portal Master 
+                    
                   </Link> 
                 </li>
                 
